@@ -1,4 +1,6 @@
 # unCEAN C2: Adversary Emulation Framework
+> Note: Due to the sensitive nature of this project, we have decided to make it private. If you are interested in seeing the project, please contact us.
+
 The unCEAN C2 asynchronously awaits new implant registrations on the C2 Discord server. Discord is used to bypass traffic restrictions, anonymize traffic, and provide a defensive layer between the C2 and the implant. The implant is in a loop, regularly checking in for new commands, while updating symmetric keys upon its heartbeat.
 
 ## Two modes of operation
