@@ -9,7 +9,6 @@
 
 The unCEAN C2 asynchronously awaits new implant registrations on the C2 Discord server. Discord is used to bypass traffic restrictions, anonymize traffic, and provide a defensive layer between the C2 and the implant. The implant is in a loop, regularly checking in for new commands, while updating symmetric keys upon its heartbeat.
 
-## 
 ## Two modes of operation
 The unCEAN implant automatically decides between using the Discord Bot API or an HTTP fallback as its C2 channel.
 
