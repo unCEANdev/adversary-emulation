@@ -18,7 +18,6 @@ systems by collecting adapter information
 - Executes processes via shell code injection and command line commands
 
 # Architecture
-![](architecture.png)
 ## C2 server
 - A Python Flask application dedicated to the client and HTTP fallback method
 - A Python Discord Listener dedicated to handle implant messaging
@@ -34,6 +33,8 @@ Hybrid cryptographic scheme:
 
 ## Operator
 - Python CLI Client for interacting with the C2
+## Diagram
+![](architecture.png)
 
 # Pivots and Future Work
 ## Brainstorming
