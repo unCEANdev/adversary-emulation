@@ -1,5 +1,5 @@
 # unCEAN C2: Adversary Emulation Framework
-## Contributors
+### Contributors
 - Chirag Hegde – [ChiragH25](https://github.com/ChiragH25)
 - Alex Pozin – [alexP-bu](https://github.com/alexP-bu)
 - Nafis Abeer – [Naaafis](https://github.com/Naaafis)
